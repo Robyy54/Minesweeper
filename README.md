@@ -7,7 +7,7 @@ A simple implementation of the classic Minesweeper game using p5.js. This projec
 - [Starting](#starting)
 - [Usage](#usage)
 - [License](#license)
-- [Social media](#Socials)
+- [Socials](#Socials)
 
 ## Starting
 
