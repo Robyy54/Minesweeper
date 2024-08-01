@@ -7,7 +7,7 @@ A simple implementation of the classic Minesweeper game using p5.js. This projec
 - [Starting](#starting)
 - [Usage](#usage)
 - [License](#license)
-- [Social media](#Social media)
+- [Social media](#Socials)
 
 ## Starting
 
@@ -34,6 +34,6 @@ To start with this project, you can choose one of the following options:
 
 This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) file for details.
 
-## Social media
+## Socials
 
 - [Github](https://github.com/Robyy54)
