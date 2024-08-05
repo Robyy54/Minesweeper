@@ -37,3 +37,5 @@ This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) fi
 ## Socials
 
 - [Github](https://github.com/Robyy54)
+- [Instagram](https://www.instagram.com/robyy5435/)
+- [Tik Tok](https://www.tiktok.com/@robyy5435)
